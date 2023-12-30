@@ -1,17 +1,10 @@
-<h1 align="center">Hi 👋, I'm Emiliano Nataren</h1>
-<h3 align="center">Becoming better ;D</h3>
+<h1 align="center">Emiliano Nataren</h1>
 <img align="right" alt="triangle" width="400" src=       "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb211YjNxenA5OTZieGRrbTBxOHhycWU4eWNqc3NseGNtMm5iYjRhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9mSxIJ5qFtpv4n8DRC/giphy.gif" alt="">
 
 
-- 🌱 I’m currently learning **Sensors and backend applications using Node.js and arduino**
-
 - 👨‍💻 All of my projects are available at [https://portfolio-roan-iota-44.vercel.app/](https://portfolio-roan-iota-44.vercel.app/)
 
-- 💬 Ask me about **Physics and Css, take a sit Uwu**
-
 - 📫 How to reach me **eminataren2002@gmail.com**
-
-- ⚡ **Make it fun, enjoy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
