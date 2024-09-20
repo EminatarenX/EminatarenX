@@ -4,7 +4,7 @@
 
 - 👨‍💻 All of my projects are available at [https://portfolio-roan-iota-44.vercel.app/](https://portfolio-roan-iota-44.vercel.app/)
 
-- 📫 How to reach me **eminataren2002@gmail.com**
+- 📫 Mail **eminataren2002@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
