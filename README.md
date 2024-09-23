@@ -2,11 +2,11 @@
 <img align="right" alt="triangle" width="400" src=       "https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExb211YjNxenA5OTZieGRrbTBxOHhycWU4eWNqc3NseGNtMm5iYjRhZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/9mSxIJ5qFtpv4n8DRC/giphy.gif" alt="">
 
 
-- 👨‍💻 All of my projects are available at [https://portfolio-roan-iota-44.vercel.app/](https://portfolio-roan-iota-44.vercel.app/)
+- 👨‍💻 Mis proyectos [https://portfolio-roan-iota-44.vercel.app/](https://portfolio-roan-iota-44.vercel.app/)
 
 - 📫 Mail **eminataren2002@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Contacto:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/emiliano-nataren-del-rivero-8b0b85252/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/emiliano-nataren-del-rivero-8b0b85252/" height="30" width="40" /></a>
 
